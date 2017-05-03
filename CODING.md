@@ -54,7 +54,7 @@ Running yunit on your desktop without installing
 cd ~/yunit
 LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/ builddir/src/unity8  -mousetouch
 ````
-####TODO
+#### TODO
 Seems that if you don't manually modify the LD_LIBRARY_PATH, it cannot find the `/usr/lib/x86_64-linux-gnu/qt5/plugins/platforms/libqpa-mirserver.so` library. This needs to be fixed.
 
 Notes
