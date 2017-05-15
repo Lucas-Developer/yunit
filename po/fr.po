@@ -24,7 +24,7 @@ msgstr "Mot de passe : "
 
 #: plugins/LightDM/Greeter.cpp:203
 msgid "Username"
-msgstr "Nom d’utilisateur"
+msgstr "Nom d’utilisateur : "
 
 #: plugins/LightDM/Greeter.cpp:242
 msgid "Failed to authenticate"
@@ -48,7 +48,7 @@ msgstr "Se connecter"
 
 #: plugins/LightDM/UsersModel.cpp:160
 msgid "Guest Session"
-msgstr "Session d'invité"
+msgstr "Se connecter avec un compte invité"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:49
 #: plugins/Unity/Launcher/launcheritem.cpp:123
@@ -117,7 +117,7 @@ msgid ""
 "to power off?"
 msgstr ""
 "Êtes-vous sûr de vouloir\n"
-"couper l'alimentation ?"
+"éteindre ?"
 
 #: qml/Components/Dialogs.qml:244
 msgctxt "Button: Power off the system"
@@ -143,7 +143,7 @@ msgstr "Impécr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:67
 msgid "Takes a screenshot."
-msgstr "Prend une capture d'écran."
+msgstr "Prendre une capture d'écran."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:75
 msgid "Alt + PrtScr"
@@ -151,7 +151,7 @@ msgstr "Alt + Impécr"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:80
 msgid "Takes a screenshot of the current window."
-msgstr "Prend une capture d'écran de la fenêtre actuelle."
+msgstr "Prendre une capture d'écran de la fenêtre actuelle."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:88
 msgid "Super + Space"
@@ -175,7 +175,7 @@ msgstr "Ctrl + Alt + T"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:119
 msgid "Starts the Terminal application."
-msgstr "Démarre l'application Terminal."
+msgstr "Lancer le Terminal."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:131
 msgid "Launcher"
@@ -183,7 +183,7 @@ msgstr "Lanceur"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:138
 msgid "Super (Hold)"
-msgstr "Super (maintenu)"
+msgstr "Super (maintenir)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:143
 msgid "Opens the launcher, displays shortcuts."
@@ -219,7 +219,7 @@ msgstr "Super + A"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:195
 msgid "Opens the Application Drawer."
-msgstr "Ouvre le tiroir des applications."
+msgstr "Ouvre le menu des applications."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:207
 msgid "Scopes"
@@ -418,7 +418,7 @@ msgstr "Réinitialiser"
 
 #: qml/Dash/GenericScopeView.qml:547 qml/Dash/GenericScopeView.qml:718
 msgid "Show less"
-msgstr "Afficher plus"
+msgstr "Afficher moins"
 
 #: qml/Dash/GenericScopeView.qml:547
 msgid "Show all"
@@ -452,7 +452,7 @@ msgstr "Envoyer"
 
 #: qml/Dash/Previews/PreviewRatingInput.qml:109
 msgid "Rate this"
-msgstr "Évaluez ceci"
+msgstr "Évaluez"
 
 #: qml/Dash/Previews/PreviewRatingInput.qml:184
 msgid "Add a review"
@@ -564,7 +564,7 @@ msgstr "Conférence"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:869
 msgid "Nothing is playing"
-msgstr "Rien n'est en cours de lecture"
+msgstr "La liste de lecture est vide"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:997
 #, qt-format
@@ -746,7 +746,7 @@ msgstr "En sélectionnant cette option, vous acceptez les %1 de Nokia HERE."
 #: qml/Wizard/Pages/40-location.qml:106
 msgctxt "part of: Nokia HERE terms and conditions"
 msgid "terms and conditions"
-msgstr "conditions générales d'utilisation"
+msgstr "conditions générales d'utilisation de Nokia HERE"
 
 #: qml/Wizard/Pages/40-location.qml:160
 msgid "GPS only"
@@ -806,7 +806,7 @@ msgstr "Aidez-nous à nous améliorer"
 #: qml/Wizard/Pages/75-report-check.qml:59
 msgid "Improve system performance by sending us crashes and error reports."
 msgstr ""
-"Améliorez les performances du système en nous envoyant les rapports d'erreur "
+"Améliorez les performances du système en nous envoyant des rapports d'erreur "
 "et en nous signalant les anomalies."
 
 #: qml/Wizard/Pages/75-report-check.qml:60
@@ -857,7 +857,7 @@ msgstr ""
 #: qml/Wizard/Pages/here-terms.qml:106
 #, qt-format
 msgid "By continuing, you agree to the HERE platform %1 and %2."
-msgstr "En continuant, nous acceptez la %1 et les %2 de la plateforme HERE."
+msgstr "En continuant, vous acceptez la %1 et la %2 de la plateforme HERE."
 
 #: qml/Wizard/Pages/here-terms.qml:107
 msgid "Service Terms"
@@ -1060,7 +1060,7 @@ msgstr "Mot de passe très faible"
 #~ msgstr "Terminé"
 
 #~ msgid "Favorites"
-#~ msgstr "Favorites"
+#~ msgstr "Favoris"
 
 #~ msgid "Sorry, incorrect passphrase."
 #~ msgstr "Désolé, phrase secrète incorrecte."
@@ -1088,7 +1088,7 @@ msgstr "Mot de passe très faible"
 #~ "personnelles seront supprimées."
 
 #~ msgid "Roaming"
-#~ msgstr "Roaming"
+#~ msgstr "Itinérance de donnés"
 
 #, qt-format
 #~ msgid "Sorry, incorrect %1"
