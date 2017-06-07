@@ -5,8 +5,6 @@ This is a fork of Canonical's **Unity 8** repository as of April 5, 2017. Follow
 Please check [yunit's web site](http://www.yunit.io) (currently under construction) for project updates
  
 **See the file [CODING.md](https://github.com/yunit-io/yunit/blob/master/CODING.md) for build and running instructions**
-### Design ###
-Yunit is looking for a logo! Please submit your proposal at the [Yunit Logo Submissions group at flickr](https://www.flickr.com/groups/3484594@N25/).
 ### Translations ###
 For help with translations do a pull request with the changes that you made to the .po file of your language.
 
